@@ -1,1 +1,80 @@
-
+{
+    "data": [
+        {
+            "id": "A1749191433",
+            "upi": "8d444684b7aa79bc97f8594a4aab7ce3",
+            "mis_id": "9919",
+            "initials": "RB",
+            "title": "Ms",
+            "surname": "Bennett",
+            "forename": "Ruth",
+            "middle_names": null,
+            "legal_surname": "Bennett",
+            "legal_forename": "Ruth",
+            "gender": "FEMALE",
+            "gender_identity": null,
+            "date_of_birth": {
+                "date": "2002-09-29 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            },
+            "restored_at": {
+                "date": "2015-10-22 20:11:20.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "created_at": {
+                "date": "2015-10-22 20:11:20.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2015-10-22 20:11:20.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        },
+        {
+            "id": "A1849765024",
+            "mis_id": "8404",
+            "initials": "TS",
+            "title": "Mr",
+            "surname": "Smith",
+            "forename": "Tom",
+            "middle_names": null,
+            "legal_surname": "Smith",
+            "legal_forename": "Tom",
+            "gender": "MALE",
+            "gender_identity": null,
+            "date_of_birth": {
+                "date": "2000-07-24 00:00:00.000000",
+                "timezone_type": 3,
+                "timezone": "Europe/London"
+            },
+            "restored_at": {
+                "date": "2015-10-22 20:11:20.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "created_at": {
+                "date": "2015-10-22 20:11:20.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "updated_at": {
+                "date": "2015-10-22 20:11:20.000000",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "next": "https://api.wonde.com/v1.0/schools/{school_id}/students/?page=2",
+            "previous": null,
+            "more": true,
+            "per_page": 50,
+            "current_page": 1
+        }
+    }
+}
